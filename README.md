@@ -7,4 +7,5 @@ Our cybersecurity tool, EncryptSafe, is a comprehensive solution designed for ro
 Features and functionalities implemented in the tool:
 Symmetric Encryption and Decryption, Key Management, File and Data Encryption, User-friendly Command-Line Interface, Password-based Encryption, Asymmetric Encryption and Digital Signatures
 
-In order to run this code you would need to install python and cryptography package
+
+Prerequisites-In order to run this code you would need to install python and cryptography package
